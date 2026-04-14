@@ -8,7 +8,7 @@ Mi objetivo actual es seguir fortaleciendo mis habilidades en todo el ciclo de v
 - Estudiar una carrera profesional en TI 🚀 
 
 # Mis intereses
-- Apasionada por los videojuegos, mi objetivo final es crear mi propio videojuego.
+- Apasionada por los videojuegos, mi objetivo final es crear uno propio.
 - Interesada en la creación de aplicaciones móviles intuitivas.
 
 # Mis skills
