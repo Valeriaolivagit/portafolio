@@ -22,4 +22,10 @@ Mi objetivo actual es seguir fortaleciendo mis habilidades en todo el ciclo de v
   <a href="#-"><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"></a>
   <a href="#-"><img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot"></a>
 </p>
- 
+
+ ## Mis proyectos
+### Alke-Wallet (https://github.com/Valeriaolivagit/Alke-wallet)
+ Billetera virtual diseñada para la gestión financiera digital.
+####Herramientas utilizadas:   <a href="#-"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"></a>
+  <a href="#-"><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"></a>
+  <a href="#-"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"></a>
