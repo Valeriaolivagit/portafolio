@@ -43,7 +43,7 @@ Biblioteca virtual enfocada en la gestión de préstamos de libros. El sistema p
     * Interfaz responsiva adaptada para administración interna..
 ---
 
-### 🎓 Proyecto EduManager - Caso de Estudio
+## 🎓 Proyecto EduManager - Caso de Estudio
  #### 1. Descripción de la tarea
  Desarrollar una aplicación web educativa en Java utilizando el ecosistema de Spring que permita gestionar estudiantes y cursos. 
  
