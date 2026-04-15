@@ -29,7 +29,7 @@ Mi objetivo actual es seguir fortaleciendo mis habilidades en todo el ciclo de v
 Billetera virtual diseñada para la gestión financiera digital. Permite a los usuarios registrar, controlar y monitorear sus transacciones de manera segura, facilitando el seguimiento de ingresos y gastos para una mejor organización de sus finanzas personales.
 * **Stack:**
   <a href="#-"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"></a> <a href="#-"><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"></a>  <a href="#-"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"></a> <a href="#-"><img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"></a>
-* **Key Features:***
+* **Key Features:**
     * **Simulación de transacciones** seguras (envío y recepción).
     * **Dashboard financiero** con resumen de movimientos y gestión de contactos.
     * **Diseño adaptativo** optimizado para dispositivos móviles y escritorio.
