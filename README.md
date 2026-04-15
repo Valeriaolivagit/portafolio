@@ -23,9 +23,23 @@ Mi objetivo actual es seguir fortaleciendo mis habilidades en todo el ciclo de v
   <a href="#-"><img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot"></a>
 </p>
 
- ## Mis proyectos
-### Alke-Wallet (https://github.com/Valeriaolivagit/Alke-wallet)
- Billetera virtual diseñada para la gestión financiera digital.
-####Herramientas utilizadas:   <a href="#-"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"></a>
-  <a href="#-"><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"></a>
-  <a href="#-"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"></a>
+### 📂 Proyectos personales
+
+#### 💳 [AlkeWallet](https://github.com/Valeriaolivagit/Alke-wallet)
+Billetera virtual diseñada para la gestión financiera digital. Permite a los usuarios registrar, controlar y monitorear sus transacciones de manera segura, facilitando el seguimiento de ingresos y gastos para una mejor organización de sus finanzas personales.
+* **Stack:**
+  <a href="#-"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"></a> <a href="#-"><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"></a>  <a href="#-"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"></a> <a href="#-"><img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"></a>
+* **Key Features:***
+    * **Simulación de transacciones** seguras (envío y recepción).
+    * **Dashboard financiero** con resumen de movimientos y gestión de contactos.
+    * **Diseño adaptativo** optimizado para dispositivos móviles y escritorio.
+---
+#### 📕 [Inks&Books](https://github.com/Valeriaolivagit/Biblioteca_digital)
+Biblioteca virtual enfocada en la gestión de préstamos de libros. El sistema permite administrar el catálogo, registrar usuarios, y controlar préstamos y devoluciones, optimizando la organización y disponibilidad de los recursos bibliográficos.
+* **Stack:**  <a href="#-"><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"></a> <a href="#-"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"></a> <a href="#-"><img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"></a> <a href="#-"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"></a> <a href="#-"><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"></a>
+* **Key Features:**
+    * Gestión integral de inventario y registro de socios.
+    * Control de estados de disponibilidad de libros.
+    * Interfaz responsiva adaptada para administración interna..
+---
+
